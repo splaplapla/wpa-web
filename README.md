@@ -1,3 +1,3 @@
 # wpa-web
 
-https://github.com/piotrmaslanka/supplicanted　みたいなやつ
+like https://github.com/piotrmaslanka/supplicanted
